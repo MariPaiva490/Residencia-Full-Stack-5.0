@@ -11,10 +11,10 @@ public class Calculator {
         System.out.println("Digite o segundo numero");
         int num2 = sc.nextInt();
 
-        System.out.println("Soma:" + soma(num1,num2));
-        System.out.println("Subtracao:" + sub(num1,num2));
-        System.out.println("Multiplicao:" + mult(num1,num2));
-        System.out.println("Divisao:" + div(num1,num2));
+        System.out.println("Resultado da Soma:" + soma(num1,num2));
+        System.out.println("Resultado da Subtracao:" + sub(num1,num2));
+        System.out.println("Resultado da Multiplicao:" + mult(num1,num2));
+        System.out.println("Resultado da Divisao:" + div(num1,num2));
 
     }
 
